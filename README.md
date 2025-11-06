@@ -13,3 +13,8 @@ Check if a Number is Even or Odd
 #a2_task2.py
 Sum of Integers from 1 to 50 Using a Loop
 
+#a3_task1.py
+Calculate Factorial Using a Function
+
+#a3_task2.py
+Using the Math Module for Calculations

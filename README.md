@@ -18,3 +18,9 @@ Calculate Factorial Using a Function
 
 #a3_task2.py
 Using the Math Module for Calculations
+
+#a4_task1.py
+Read a File and Handle Errors
+
+#a4_task2.py
+Write and Append Data to a File

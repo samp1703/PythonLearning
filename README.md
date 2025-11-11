@@ -28,3 +28,7 @@ Create a Dictionary of Student Marks
 
 #a5_task2.py
 Demonstrate List Slicing
+
+#a6_calc1.py
+CALCULATOR USING TKINTER
+
